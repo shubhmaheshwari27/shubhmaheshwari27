@@ -2,9 +2,9 @@
 <h4 align="center"> :blossom: Welcome To My GitHub Profile :blossom: </h4>
 
 <!-- BANNER -->
-<!-- <p align="center">
-    <img src="https://github.com/Manasvie/Manasvie/assets/118369715/2a45f349-3408-439e-a3bf-5e6701b3e358" alt="Github Introduction Banner">
-</p> -->
+<p align="center">
+    <img src="https://github.com/shubhmaheshwari27/shubhmaheshwari27/assets/104754242/f504617a-5af2-4498-8f63-5ad6a8361e87" alt="Introduction Banner">
+</p>
 
 <!-- HEADING -->
 <h3 align="center"> :computer: A Passionate Software Developer From India :computer: </h3>
@@ -14,13 +14,13 @@
 🔭 I’m currently working on enhancing my skills
 </p>
 <p align="center">
-🌱 I’m currently learning JavaScript frameworks
+🌱 I’m currently learning Flutter framework
 </p>
 <p align="center">
 👯 I’m looking to collaborate on all things design and development
 </p>
 <p align="center">
-⚡ Fun fact: I am humorous 😄
+⚡ Fun fact: I am a tein 😄
 </p>
 
 <!-- VISITORS COUNT -->
