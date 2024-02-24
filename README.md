@@ -20,7 +20,7 @@
 👯 I’m looking to collaborate on all things design and development
 </p>
 <p align="center">
-⚡ Fun fact: I am a tein 😄
+⚡ Fun fact: I am a twin 😄
 </p>
 
 <!-- VISITORS COUNT -->
