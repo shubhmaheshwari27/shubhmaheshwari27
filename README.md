@@ -53,7 +53,7 @@
 <!-- GITHUB STATS -->
 <br/>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmaheshwari27&title_color=56A076&icon_color=CC5160&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="shubhmaheshwari27" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmaheshwari27&title_color=56A076&icon_color=CC5160&text_color=8FD8C6&bg_color=00000000&show_icons=true&locale=en&layout=compact" alt="shubhmaheshwari27"/>
 </p>
 
 <!-- STATS TABLE -->
